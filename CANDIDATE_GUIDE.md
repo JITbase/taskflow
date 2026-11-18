@@ -42,13 +42,4 @@ Choisissez ensuite un problème important et corrigez-le. Ajoutez un test qui d�
 - les tests ajoutés ou exécutés ;
 - les questions que vous poseriez à l'équipe avant une mise en production.
 
-## Temps suggéré
-
-- 15 min : prise en main et démarrage ;
-- 45 min : backend et MongoDB ;
-- 25 min : sécurité ;
-- 20 min : frontend ;
-- 20 min : correction et test ;
-- 15 min : restitution.
-
 Le bonus Go est facultatif.
